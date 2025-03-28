@@ -1,7 +1,7 @@
 <div class="fixed top-0 w-full z-50">
-    <header class="bg-black text-white max-w-screen-xl mx-auto flex items-center justify-between px-6 py-6 font-WorkSans">
+    <header class="bg-black text-white max-w-screen-xl mx-auto flex items-center justify-between px-6 py-3 font-sans">
         <a href="/" class="flex items-center">
-            <img src="/images/murray.png" alt="murray-logo" class="h-18">
+            <img src="/images/murray.png" alt="murray-logo" class="h-15">
         </a>
 
         <nav class="hidden md:flex space-x-8 mr-140">

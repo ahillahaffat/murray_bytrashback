@@ -37,7 +37,6 @@
                     Murray Trashback On<br>
                     Wiraradja The Homeland<br>
                     Jombang<br>
-                    Finland
                 </div>
                 <div class="ml-auto">
                     <img src="/images/murray.png" alt="Logo" class="h-12 object-contain">

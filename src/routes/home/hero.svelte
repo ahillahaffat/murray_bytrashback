@@ -9,7 +9,7 @@
             <p class="text-lg text-gray-400 mb-8">
                 Your trusted partner in waste management and environmental sustainability.
             </p>
-            <a href="/service" class="bg-blue-600 text-white px-6 py-3 rounded-lg text-lg hover:bg-blue-700 transition">
+            <a href="/service" class="bg-blue-500 text-white px-6 py-3 rounded-lg text-lg hover:bg-blue-700 transition">
                 Learn More
             </a>
         </div>

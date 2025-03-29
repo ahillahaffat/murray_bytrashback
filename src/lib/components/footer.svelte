@@ -39,7 +39,7 @@
                     Jombang<br>
                 </div>
                 <div class="ml-auto">
-                    <img src="/images/murray.png" alt="Logo" class="h-12 object-contain">
+                    <img src="/images/logo.png" alt="Logo" class="h-12 object-contain">
                 </div>
                 </div>
             </div>

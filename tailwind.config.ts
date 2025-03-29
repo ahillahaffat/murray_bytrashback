@@ -9,6 +9,11 @@ const config: Config = {
       fontFamily: {
         sans: ['"Work Sans Variable"', 'sans-serif'],
       },
+      colors: {
+        primary: '#017FD2',
+        secondary: '#FBBF24',
+        accent: '#4F46E5',
+      },
     }, 
   },
   plugins: [
